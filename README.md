@@ -3,9 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]()
 
-# Olá! Eu sou Enirceh 👋
+# Transformando dados em conhecimento para promover a saúde humana, animal e ambiental.
 
-📊 Médica Veterinária e entusiasta de Ciência de Dados aplicada à Saúde.
+📊 Eu sou Médica Veterinária e entusiasta de Ciência de Dados aplicada à Saúde.
 
 Atualmente estou construindo um portfólio voltado para análise de dados, bioestatística e pesquisa científica utilizando Python e R.
 
