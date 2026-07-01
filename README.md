@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]()
 
-# Olá! Eu sou Enirce 👋
+# Olá! Eu sou Enirceh 👋
 
 📊 Médica Veterinária e entusiasta de Ciência de Dados aplicada à Saúde.
 
