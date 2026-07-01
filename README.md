@@ -4,6 +4,6 @@
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]()
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]()
 
-![Enirceh GitHub stats](https://github-readme-stats.vercel.app/api?username=enirceh&show_icons=true&theme=dracula)
+
 
 
