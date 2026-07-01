@@ -11,12 +11,12 @@ Atualmente estou construindo um portfólio voltado para análise de dados, bioes
 
 ## 🎯 Áreas de interesse
 
-- 🩺 Saúde Coletiva
 - 🐾 Medicina Veterinária
-- 🌎 Saúde Única (One Health)
-- 📈 Bioestatística
-- 🔬 Epidemiologia
 - 💻 Ciência de Dados
+- 🩺 Saúde Coletiva
+- 🌎 Saúde Única (One Health)
+- 🔬 Epidemiologia
+- 📈 Bioestatística 
 - 🤖 Inteligência Artificial aplicada à Saúde
 - 📊 Visualização de Dados
 - 🧬 Pesquisa Científica
